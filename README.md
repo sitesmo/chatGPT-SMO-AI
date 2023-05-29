@@ -16,3 +16,6 @@ AI聊天工具
 SEO AI软文自动发布平台
 AI心里测评
 虚拟人聊天室等等
+
+
+![Alt text]([图片链接](https://github.com/sitesmo/chatGPT-SMO-AI/blob/main/01.png?raw=true) "平台效果")
